@@ -1,0 +1,19 @@
+# Visual Studio 產生的暫存檔
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# 編譯 (Build) 產生的資料夾
+[Bb]in/
+[Oo]bj/
+
+# 套件還原 (NuGet)
+packages/
+*.nupkg
+
+# 其他
+*~
+*.log
+*.cache
